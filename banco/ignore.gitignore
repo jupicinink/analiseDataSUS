@@ -1,0 +1,10 @@
+# Ignorar todos os arquivos .log
+*.venv
+*.csv
+*.dbf
+
+# Ignorar a pasta "build"
+Projeto DataSus/
+
+# Ignorar um arquivo específico
+

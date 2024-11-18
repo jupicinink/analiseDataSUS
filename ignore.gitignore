@@ -8,3 +8,7 @@ Projeto DataSus/
 
 # Ignorar um arquivo específico
 
+banco/ACGRBR23.csv
+banco/ACGRBR23.dbf
+banco/ACGRBR22.csv
+banco/ACGRBR22.dbf
